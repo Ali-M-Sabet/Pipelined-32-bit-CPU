@@ -1,7 +1,4 @@
 """
-Team 10 Custom Processor Assembler
-==================================
-
 This program converts an assembly file into the plain hex memory format used by
 the VHDL memory module.
 
