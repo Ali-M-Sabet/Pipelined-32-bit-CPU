@@ -1,0 +1,10 @@
+/work/
+/transcript
+/modelsim.ini
+/*.wlf
+/wlf*
+/program.mem
+/input.mem
+/expected.mem
+
+__pycache__/
