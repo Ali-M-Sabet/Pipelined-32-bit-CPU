@@ -1,6 +1,6 @@
 # Pipelined CPU — VHDL Implementation
 
-A 32-bit CPU written in VHDL for a computer architecture course project. It implements a custom 26-instruction ISA with a six-stage pipeline, forwarding, hazard detection, branch prediction, interrupts and a Python assembler.
+I co-developed this 32-bit VHDL CPU with my team for a computer architecture course project. It implements a custom 26-instruction ISA with a six-stage pipeline, forwarding, hazard detection, branch prediction, interrupts and a Python assembler.
 
 ---
 
